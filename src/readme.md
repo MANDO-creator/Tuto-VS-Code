@@ -4,4 +4,4 @@ usó una galera de diferentes y los mezcló de tal manera que logró fabricar un
 sobrevivió cinco siglos, sino que también ingresó a la composición tipográfica electrónica, 
 permaneciendo esencialmente inalterado. Se popularizó en la década de 1960 con la publicación de 
 las hojas Letraset que contenían pasajes de Lorem Ipsum y, más recientemente, con el uso de software 
-de autoedición como Aldus PageMaker, que incluía versiones de Lorem Ipsum. 
+de autoedición como Aldus PageMaker, que incluía versiones de Lorem Ipsum.  
